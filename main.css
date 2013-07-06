@@ -1,0 +1,33 @@
+body {
+      background: #312F2D url("background.png") repeat;
+      text-align: center;
+      font-family: 'Open Sans Condensed', sans-serif;
+      font-size: 20px;
+      margin-top: 10%;
+}
+
+body a {
+  color: grey;
+  text-decoration: none;
+}
+
+body a:hover {
+  color: black;
+}
+
+body h1, h2, h3 {
+  margin: 10px;
+}
+
+#content {
+  height: 50%;
+  width: 100%;
+}
+
+#header {
+  margin-bottom: 20px;
+}
+
+#contact {
+  margin-bottom: 10%;
+}
