@@ -31,3 +31,18 @@ body h1, h2, h3 {
 #contact {
   margin-bottom: 10%;
 }
+
+font {
+  color: grey;
+}
+
+font:hover {
+  cursor: pointer;
+  color: black;
+}
+
+#footer h2 {
+  display: inline-block;
+  width: 50%;
+  line-height: 10px;
+}
