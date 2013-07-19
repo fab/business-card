@@ -46,3 +46,11 @@ font:hover {
   width: 50%;
   line-height: 10px;
 }
+
+/* media query for mobile devices */
+
+@media screen and (max-width: 1430px) {
+  #footer {
+    display: none;
+  }
+}
